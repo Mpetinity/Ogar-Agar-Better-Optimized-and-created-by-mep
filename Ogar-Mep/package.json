@@ -1,0 +1,13 @@
+{
+    "name": "ogar",
+    "version": "1.3.6",
+    "description": "FOSS implementation of a private Agar.io gameserver",
+    "license": "Apache-2.0",
+
+        "name": "Meptinity",
+        "email": "Meptinity2005@gmail.com"
+    
+    "dependencies": {
+        "uws": "10.148.1"
+    }
+}
